@@ -25,10 +25,3 @@ npm run dev
 
 # Build for production
 npm run build
-```
-
-## Learning Concepts
-
-- `useState` hook for managing color state
-- Inline styling with React
-- Tailwind CSS for layout and button styling
